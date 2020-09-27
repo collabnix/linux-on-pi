@@ -33,7 +33,7 @@ Asia > India > Bengaluru > Begur > Vishwapriya > 11th cross > S Grand
   
   
   <details><summary>
-  How to create file in Linux]
+  How to create file in Linux
   </summary>
   
   Task #1:
