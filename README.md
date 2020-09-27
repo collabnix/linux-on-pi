@@ -4,23 +4,22 @@
 
 # Pi Labs
 
-<details><summary>
-- [ How to start Raspberry Pi]()
-   </summary>
+<details>
+<summary>
+[ How to start Raspberry Pi]()
+</summary>
   - Plug-in charger 
   - PLugin-in HDMI cable
   - Attach Logitech Bluetooth dongle
   
  Now power-on adapter and see if the display works.
   
-  
-  
-  </details>
+</details>
 
 # Linux Labs
 
 <details><summary>
-- [ How to create directory structure in Linux]()
+[ How to create directory structure in Linux]()
   </summary>
   
   
