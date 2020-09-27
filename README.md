@@ -21,9 +21,21 @@ How to start Raspberry Pi
 <details><summary>
 How to create directory structure in Linux
   </summary>
+  <br>
+Task #1 : Create a below directory structure
+<br>
+
+Asia > India > Bengaluru > Begur > Vishwapriya > 11th cross > S Grand
+     > Nepal > Birgunj > Tejarath Tole > House230
+     
+  
+  </details>
   
   
   <details><summary>
   How to create file in Linux]
   </summary>
+  
+  Task #1:
+  
   </details>
