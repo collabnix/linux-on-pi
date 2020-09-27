@@ -6,14 +6,14 @@
 
 <details><summary>
 - [ How to start Raspberry Pi]()
-  
+   </summary>
   - Plug-in charger 
   - PLugin-in HDMI cable
   - Attach Logitech Bluetooth dongle
   
  Now power-on adapter and see if the display works.
   
-  </summary>
+  
   
   </details>
 
